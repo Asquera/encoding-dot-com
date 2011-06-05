@@ -3,6 +3,7 @@ gem 'rspec'
 gem 'jeweler'
 gem 'roodi'
 gem 'curb'
+gem 'rtf'
 
 source "http://gemcutter.org"
 
